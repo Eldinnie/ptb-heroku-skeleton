@@ -24,6 +24,8 @@ This Repo contains two different skeletons:
 * herokubot.py - Using the builtin webhookserver
 * herokubotcp.py - Using cherrypy. It even also runs a welcome webpage.
 
+Mind that If you want to use the second example, you'll have to add `cherrypy` to the `requirements.txt`.
+
 ## Procfile
 The Procfile in this repository is currently set to run the first version (with the simple http server) Change it to whatever you need.
 
