@@ -1,1 +1,1 @@
-web: python herokubotcp.py
+web: python herokubot.py
