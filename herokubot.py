@@ -13,7 +13,9 @@ def echo(bot, update):
 
 if __name__ == "__main__":
     TOKEN = "Your token from @Botfather"
+    TOKEN = os.environ.get('TOKEN')
     NAME = "The name of your app on Heroku"
+    NAME = os.environ.get('NAME')
 
     port = os.environ.get('PORT')
 
