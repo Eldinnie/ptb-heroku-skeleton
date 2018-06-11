@@ -57,18 +57,4 @@ docs/_build/
 # PyBuilder
 target/
 
-\.idea/inspectionProfiles/Project_Default\.xml
-
-\.idea/markdown-navigator\.xml
-
-\.idea/markdown-navigator/profiles_settings\.xml
-
-\.idea/misc\.xml
-
-\.idea/modules\.xml
-
-\.idea/ptb-heroku-skeleton\.iml
-
-\.idea/vcs\.xml
-
-\.idea/workspace\.xml
+.idea/
